@@ -1,7 +1,7 @@
 ---
 layout: page_full
 featimg: 6.jpg
-title: Page
+title: Resume
 ---
 ## This is a full-width static page
 
