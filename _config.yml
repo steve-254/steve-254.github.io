@@ -1,5 +1,5 @@
 name: Steve-254
-description: the tech enthusiasts blog
+description: the tech enthusiast blog
 url: http://steve-254.github.io
 
 gems: [jekyll-paginate]
