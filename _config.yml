@@ -1,6 +1,7 @@
-name: Twister
-description: a powerful jekyll theme
-url: #place url
+name: Steve-254
+description: the tech enthusiasts blog
+url: http://steve-254.github.io
+
 gems: [jekyll-paginate]
 baseurl: #place folder name if site is served in subfolder
 permalink: /:title/
